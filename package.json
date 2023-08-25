@@ -1,0 +1,21 @@
+{
+  "name": "nodetodo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Todo"
+  ],
+  "author": "Sumaya Ahmed",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "yargs": "^17.7.2"
+  }
+}
